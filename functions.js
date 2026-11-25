@@ -1,7 +1,7 @@
 // TODO: Create a function called greet that takes a name parameter
 // TODO: Make the greet function return "Hello, [name]!"
 function greet(name) {
-    return `Hello ${name}!`
+    return `Hello, ${name}!`
 }
 
 // TODO: Create a function called add that takes two parameters
